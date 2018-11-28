@@ -400,6 +400,7 @@ let styles = StyleSheet.create({
     alignItems: 'flex-end',
     justifyContent: 'center',
     flexDirection: 'row',
+    elevation: 10
   },
   sheet: {
     flex: 1,
