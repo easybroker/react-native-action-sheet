@@ -4,7 +4,7 @@ import ActionSheet from './ActionSheet';
 
 export default class ActionSheetProvider extends React.Component {
   static propTypes = {
-    textStyle: PropTypes.Object,
+    textStyle: PropTypes.object,
     children: PropTypes.any,
   };
 
